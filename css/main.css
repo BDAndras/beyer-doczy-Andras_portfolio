@@ -149,7 +149,7 @@
 
 
 	.szoveg p{
-		text-align: justify;
+		text-align: left;
 		font-size: 1rem;
 		font-family: arial;
 		color: #9c9c9c;
@@ -229,7 +229,7 @@
 			font-family: arial;
 			color: #9c9c9c;
 			padding: 0px 15px 10px;
-			text-align: justify;
+			text-align: left;
 		}
 
 		.tema a{
@@ -359,7 +359,7 @@
 					font-size: 0.9rem;
 					font-family: arial;
 					padding: 0 10px 20px 10px;
-					text-align: justify;
+					text-align: left;
 				}
 
 				.eloterv{
@@ -399,7 +399,7 @@
 					font-size: 0.9rem;
 					font-family: arial;
 					padding: 5px 10px 5px 10px;
-					text-align: justify;
+					text-align: left;
 				}
 
 				.nehezseg img{
