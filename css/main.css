@@ -141,9 +141,8 @@
 	.szoveg h3{
 		font-family: arial;
 		font-size: 1.5rem;
-		color: #9c9c9c;
+		color: white;
 		padding-bottom: 0.2rem;
-		text-decoration: underline;
 		text-shadow: 1px 1px black;
 	}
 
@@ -219,7 +218,6 @@
 		.tema h3{
 			font-family: arial;
 			font-size: 1.5rem;
-			text-decoration: underline;
 			color: white;
 			padding: 10px 17px 5px;
 		}
@@ -290,8 +288,6 @@
 				color: #9c9c9c;
 				font-family: arial;
 				font-size: 0.85rem;
-				border-bottom: 1px solid darkgreen;
-
 			}
 
 			.elerhet h3{
@@ -349,7 +345,6 @@
 					text-shadow: 1px 1px 2px black;
 					font-family: arial;
 					font-size: 1.4rem;
-					text-decoration: underline;
 					padding: 45px 0px 10px 10px;
 				}
 
@@ -466,6 +461,7 @@
 					font-size: 1.2rem;
 					padding: 20px;
 					font-weight: bold;
+					text-align: justify;
 				}
 
 				.szoveg h3{
@@ -473,10 +469,13 @@
 				}
 
 
-
 				.tema{
 					width: 96%;
 					margin: 40px auto;
+				}
+		
+				.tema p{
+					text-align: justify;
 				}
 
 				.leir h3{
@@ -560,6 +559,7 @@
 				.tervek p{
 					font-size: 1.2rem;
 					padding: 0 20px 20px 20px;
+					text-align: justify;
 				}
 
 				.nehezseg h2{
@@ -570,6 +570,7 @@
 				.nehezseg p{
 					font-size: 1.2rem;
 					padding: 0 20px 15px 20px;
+					text-align: justify;
 
 				}
 
